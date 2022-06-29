@@ -1,0 +1,16 @@
+body{
+    background-color: paleturquoise;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.principal{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: violet;
+}
+#btn{
+    background-color: #158671;
+    color: white;
+}
